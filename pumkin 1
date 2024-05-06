@@ -100,7 +100,6 @@ rn Integrity file
 .dynamodb/
 
 # TernJS port file
-.tern-port
 
 # macOS
 .DS_Store
