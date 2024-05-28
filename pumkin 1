@@ -10,8 +10,6 @@ yarn-err
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
-
-
 *.seed
 *.pid.lock
 
