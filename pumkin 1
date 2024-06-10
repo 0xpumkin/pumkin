@@ -86,7 +86,6 @@ rn Integrity file
 
 # FuseBox cache
 
-
 # DynamoDB Local files
 .dynamodb/
 
