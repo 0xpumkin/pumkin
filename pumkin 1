@@ -17,6 +17,7 @@ lib-d
 coverage
 *.lcov
 
+]i
 # nyc test coverage
 .nyc_output
 
