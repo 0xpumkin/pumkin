@@ -64,9 +64,6 @@ rn Integrity file
 .cache
 
 # Next.js build output
-
-# Nuxt.js build /
-
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
