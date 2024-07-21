@@ -54,7 +54,7 @@ d
 rn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
+# dotenv environment jables file
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
